@@ -1,6 +1,0 @@
-module Pods_TokTown {
-  umbrella header "Pods-TokTown-umbrella.h"
-
-  export *
-  module * { export * }
-}
